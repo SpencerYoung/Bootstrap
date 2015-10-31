@@ -11,26 +11,6 @@ aside, footer, header, nav, section {
 
 /*==========  Navigation  ==========*/
 
-nav {
-    text-align: center;
-}
-
-nav ul {
-    padding: 20px 0;
-    display: inline-block;
-}
-
-nav li {
-    padding: 0 10px;
-    display: inline-block;
-}
-
-nav a {
-    font-size: 20px;
-    text-decoration: none;
-    color: black;
-}
-
 /*==========  Header  ==========*/
 
 /*==========  Main Content  ==========*/
