@@ -1,3 +1,3 @@
 # simple-bootstrap
 
-This is minimalistic boostrap
+This is minimalistic boostrap.
